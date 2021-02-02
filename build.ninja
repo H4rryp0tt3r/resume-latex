@@ -1,0 +1,5 @@
+rule tex2pdf
+    command = pdflatex $in
+    description = Conver tex file to pdf
+
+build resume_to_pdf: tex2pdf resume.tex
