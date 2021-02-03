@@ -16,6 +16,6 @@ Not sure why it need sudo though!(Didn't spend anytime investigating)
 sudo tlmgr install sompackage
 ```
 
-Here is the generated output (PDF converted to JPEG for display purpose)
-
-![Generated PDF exported as JPEG](https://github.com/H4rryp0tt3r/resume-latex/blob/master/Generated_Resume.jpg)
+|Here is the generated output (PDF converted to JPEG for display purpose)|
+|------------------------------------------------------------------------|
+|![Generated PDF exported as JPEG](https://github.com/H4rryp0tt3r/resume-latex/blob/master/Generated_Resume.jpg)|
